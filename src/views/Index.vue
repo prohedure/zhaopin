@@ -1,12 +1,12 @@
 <template>
   <div>
-    <h1>APP 根组件</h1>
+    <h3>Index 页面</h3>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'App'
+  name: 'Index'
 }
 </script>
 
